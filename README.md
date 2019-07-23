@@ -16,7 +16,7 @@ To start you need to redeem your azure pass [here](https://www.microsoftazurepas
 
 #### Demo 1
 
-[Azure webapp and Maven](https://docs.microsoft.com/en-us/java/api/overview/azure/maven/azure-webapp-maven-plugin/readme?view=azure-java-stable)
+[Azure webapp and Maven](https://docs.microsoft.com/en-us/java/azure/spring-framework/deploy-spring-boot-java-app-with-maven-plugin?view=azure-java-stable)
 
 #### Demo 2
 
