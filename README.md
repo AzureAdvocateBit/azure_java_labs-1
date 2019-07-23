@@ -8,7 +8,7 @@ To start you need to redeem your azure pass [here](https://www.microsoftazurepas
 
 ### Part 1
 
-[Azure overview](https://www.microsoft.com/en-us/learning/azure-fundamentals.aspx)
+[Azure overview](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
 
 
 
