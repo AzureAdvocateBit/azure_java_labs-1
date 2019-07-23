@@ -1,6 +1,8 @@
-**your azure pass:** XXXXXXXXXXXXXXXXX
+**Welcome to the I Code Java Azure Lab**
 
-redeem here - [https://www.microsoftazurepass.com]
+To start you need to redeem your azure voucher **your azure pass:** XXXXXXXXXXXXXXXXX
+
+redeem it here - [https://www.microsoftazurepass.com]
 
  
 
