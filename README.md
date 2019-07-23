@@ -40,5 +40,5 @@ To start you need to redeem your azure voucher your azure pass [here](https://ww
 
 
 
-# [Additional Resources](https://aka.ms/AA5pk70)
+# [Additional Resources](https://aka.ms/AA5pa36)
 
