@@ -30,10 +30,10 @@ Lab 1 – Beginner with Spring Boot and Cosmosdb
 
 [https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-java-spring-cosmosdb](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fapp-service%2Fcontainers%2Ftutorial-java-spring-cosmosdb&data=02|01|Rory.Preddy%40microsoft.com|ed8f8822ab59447ab62d08d70ddd792b|72f988bf86f141af91ab2d7cd011db47|1|0|636993117184593275&sdata=%2FeqUH03X1TO%2BOfsY5ToXDZnOZf0QG4exV120nQikyJI%3D&reserved=0)
 
-(Optional)Lab 2  - Intermediate with JavaEE on Wildfly with PostGres
-
-[https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-java-enterprise-postgresql-app](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fapp-service%2Fcontainers%2Ftutorial-java-enterprise-postgresql-app&data=02|01|Rory.Preddy%40microsoft.com|ed8f8822ab59447ab62d08d70ddd792b|72f988bf86f141af91ab2d7cd011db47|1|0|636993117184593275&sdata=MMuytD19t0Ojj7jejp%2BE6qToZAAr84mXb9nuwgBL%2Boo%3D&reserved=0)
-
-Lab 3 - Azure Devops
+Lab 2 - Azure Devops
 
 [https://www.azuredevopslabs.com/labs/vstsextend/tomcat/](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.azuredevopslabs.com%2Flabs%2Fvstsextend%2Ftomcat%2F&data=02|01|Rory.Preddy%40microsoft.com|ed8f8822ab59447ab62d08d70ddd792b|72f988bf86f141af91ab2d7cd011db47|1|0|636993117184593275&sdata=9TeQp0lxylpFTRiSQydfWkKq9dwGeCsVaxUIp0vopzs%3D&reserved=0)  
+
+(Optional)Lab 3  - Intermediate with JavaEE on Wildfly with PostGres
+
+[https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-java-enterprise-postgresql-app](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Fazure%2Fapp-service%2Fcontainers%2Ftutorial-java-enterprise-postgresql-app&data=02|01|Rory.Preddy%40microsoft.com|ed8f8822ab59447ab62d08d70ddd792b|72f988bf86f141af91ab2d7cd011db47|1|0|636993117184593275&sdata=MMuytD19t0Ojj7jejp%2BE6qToZAAr84mXb9nuwgBL%2Boo%3D&reserved=0)
