@@ -1,6 +1,6 @@
 # **Welcome to the I Code Java Azure Lab**
 
-To start you need to redeem your azure voucher your azure pass [here](https://www.microsoftazurepass.com)
+To start you need to redeem your azure pass [here](https://www.microsoftazurepass.com)
 
  
 
