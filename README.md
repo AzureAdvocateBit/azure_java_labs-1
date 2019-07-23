@@ -6,13 +6,13 @@ To start you need to redeem your azure voucher your azure pass [here](https://ww
 
 ## **Section 1 – Overview and demos**
 
-### **Part 1**
+### Part 1
 
 [Azure overview](https://www.microsoft.com/en-us/learning/azure-fundamentals.aspx)
 
 
 
-### Part 2**
+### Part 2
 
 #### Demo 1
 
