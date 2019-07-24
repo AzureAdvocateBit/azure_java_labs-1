@@ -20,7 +20,7 @@ To start you need to redeem your azure pass [here](https://www.microsoftazurepas
 
 #### Demo 2
 
-[Azure Devops](https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-java )
+[Azure Devops with containers](https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-java )
 
  
 
