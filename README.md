@@ -28,21 +28,21 @@ To start you need to redeem your azure pass [here](https://www.microsoftazurepas
 
 ### Lab 1
 
-<u>**Beginner**</u>
+**Beginner**
 
 [Azure webapp and Maven](https://docs.microsoft.com/en-us/java/azure/spring-framework/deploy-spring-boot-java-app-with-maven-plugin?view=azure-java-stable)
 
-<u>**Intermediate**</u>
+**Intermediate**
 
 [Beginner with Spring Boot and Cosmosdb](https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-java-spring-cosmosdb)
 
 ### Lab 2
 
-<u>**Beginner**</u>
+**Beginner**
 
 [Azure Devops with containers](https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-java )
 
-<u>**Intermediate**</u>
+**Intermediate**
 
 [Azure Devops Blue/Green with MySQL](https://www.azuredevopslabs.com/labs/vstsextend/tomcat)
 
