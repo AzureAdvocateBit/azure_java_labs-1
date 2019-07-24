@@ -22,9 +22,13 @@ To start you need to redeem your azure pass [here](https://www.microsoftazurepas
 
 [Azure Devops with containers](https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-java )
 
- 
+#### Demo 3
 
-## **Section 2 - Labs**:
+[Logic App with Azure Functions](https://github.com/Azure/azure-quickstart-templates/tree/master/101-logic-app-and-function-app) 
+
+
+
+## **Section 2 - Labs:**
 
 ### Lab 1
 
