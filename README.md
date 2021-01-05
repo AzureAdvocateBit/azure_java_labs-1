@@ -8,7 +8,7 @@ To start you need to redeem your azure pass [here](https://www.microsoftazurepas
 
 ### Part 1
 
-[Azure overview](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
+[Azure overview](https://docs.microsoft.com/learn/paths/azure-fundamentals/?WT.mc_id=java-0000-ropreddy)
 
 
 
@@ -16,11 +16,11 @@ To start you need to redeem your azure pass [here](https://www.microsoftazurepas
 
 #### Demo 1
 
-[Azure webapp and Maven](https://docs.microsoft.com/en-us/java/azure/spring-framework/deploy-spring-boot-java-app-with-maven-plugin?view=azure-java-stable)
+[Azure webapp and Maven](https://docs.microsoft.com/java/azure/spring-framework/deploy-spring-boot-java-app-with-maven-plugin?view=azure-java-stable&WT.mc_id=java-0000-ropreddy)
 
 #### Demo 2
 
-[Azure Devops with containers](https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-java )
+[Azure Devops with containers](https://docs.microsoft.com/azure/devops-project/azure-devops-project-java?WT.mc_id=java-0000-ropreddy )
 
 #### Demo 3
 
@@ -34,17 +34,17 @@ To start you need to redeem your azure pass [here](https://www.microsoftazurepas
 
 **Beginner**
 
-[Azure webapp and Maven](https://docs.microsoft.com/en-us/java/azure/spring-framework/deploy-spring-boot-java-app-with-maven-plugin?view=azure-java-stable)
+[Azure webapp and Maven](https://docs.microsoft.com/java/azure/spring-framework/deploy-spring-boot-java-app-with-maven-plugin?view=azure-java-stable&WT.mc_id=java-0000-ropreddy)
 
 **Intermediate**
 
-[Beginner with Spring Boot and Cosmosdb](https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-java-spring-cosmosdb)
+[Beginner with Spring Boot and Cosmosdb](https://docs.microsoft.com/azure/app-service/containers/tutorial-java-spring-cosmosdb?WT.mc_id=java-0000-ropreddy)
 
 ### Lab 2
 
 **Beginner**
 
-[Azure Devops with containers](https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-java )
+[Azure Devops with containers](https://docs.microsoft.com/azure/devops-project/azure-devops-project-java?WT.mc_id=java-0000-ropreddy )
 
 **Intermediate**
 
@@ -52,7 +52,7 @@ To start you need to redeem your azure pass [here](https://www.microsoftazurepas
 
 #### (Optional Advanced) Lab 3
 
-[JavaEE on Wildfly with PostGres](https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-java-enterprise-postgresql-app)
+[JavaEE on Wildfly with PostGres](https://docs.microsoft.com/azure/app-service/containers/tutorial-java-enterprise-postgresql-app?WT.mc_id=java-0000-ropreddy)
 
 
 
